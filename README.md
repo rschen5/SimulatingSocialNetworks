@@ -72,5 +72,5 @@ Social Network is the whole structure that contains all agents, networks, and po
 In our implementation, the model class represents the whole network and the parameters we pass to the network determine how long we run the system and different attributes for agents and sub\_networks.
 
 
-**Files:**
+## Files:
 * model.ipynb: Network model
