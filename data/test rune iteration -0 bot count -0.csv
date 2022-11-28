@@ -1,8 +1,0 @@
-emotion,agent_counts,avg_falseness,median_falseness,dist_falseness,beliefs,bot_percentage,Agent_emotion_dist,Agent_belief_dist,Post_emotion_dist,Post_belief_dist
-0.0,"[[10.  8.  9.  8.  9.  5.]
- [11.  4.  5. 10. 11. 10.]]","{'0+0': nan, '0+1': nan, '0+2': nan, '0+3': nan, '0+4': nan, '0+5': nan, '1+0': nan, '1+1': nan, '1+2': nan, '1+3': nan, '1+4': nan, '1+5': nan}","{'0+0': nan, '0+1': nan, '0+2': nan, '0+3': nan, '0+4': nan, '0+5': nan, '1+0': nan, '1+1': nan, '1+2': nan, '1+3': nan, '1+4': nan, '1+5': nan}","{'0+0': [], '0+1': [], '0+2': [], '0+3': [], '0+4': [], '0+5': [], '1+0': [], '1+1': [], '1+2': [], '1+3': [], '1+4': [], '1+5': []}","{'0+0': (nan, nan, nan), '0+1': (nan, nan, nan), '0+2': (nan, nan, nan), '0+3': (nan, nan, nan), '0+4': (nan, nan, nan), '0+5': (nan, nan, nan), '1+0': (nan, nan, nan), '1+1': (nan, nan, nan), '1+2': (nan, nan, nan), '1+3': (nan, nan, nan), '1+4': (nan, nan, nan), '1+5': (nan, nan, nan)}","[[0. 0. 0. 0. 0. 0.]
- [0. 0. 0. 0. 0. 0.]]","[[0. 0. 0. 0. 0. 0.]
- [0. 0. 0. 0. 0. 0.]]","[[3.16676083 2.82658057 2.21922745 3.60668318 2.89800202 3.53537597]
- [3.46789305 2.34688754 3.01487453 2.57766548 2.09460581 2.32627551]]","[[nan nan nan nan nan nan]
- [nan nan nan nan nan nan]]","[[nan nan nan nan nan nan]
- [nan nan nan nan nan nan]]"

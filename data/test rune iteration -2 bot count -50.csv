@@ -1,8 +1,0 @@
-emotion,agent_counts,avg_falseness,median_falseness,dist_falseness,beliefs,bot_percentage,Agent_emotion_dist,Agent_belief_dist,Post_emotion_dist,Post_belief_dist
-0.0,"[[12.  7.  8. 11.  6.  9.]
- [ 5.  5.  9.  8. 10. 10.]]","{'0+0': nan, '0+1': nan, '0+2': nan, '0+3': nan, '0+4': nan, '0+5': nan, '1+0': nan, '1+1': nan, '1+2': nan, '1+3': nan, '1+4': nan, '1+5': nan}","{'0+0': nan, '0+1': nan, '0+2': nan, '0+3': nan, '0+4': nan, '0+5': nan, '1+0': nan, '1+1': nan, '1+2': nan, '1+3': nan, '1+4': nan, '1+5': nan}","{'0+0': [], '0+1': [], '0+2': [], '0+3': [], '0+4': [], '0+5': [], '1+0': [], '1+1': [], '1+2': [], '1+3': [], '1+4': [], '1+5': []}","{'0+0': (nan, nan, nan), '0+1': (nan, nan, nan), '0+2': (nan, nan, nan), '0+3': (nan, nan, nan), '0+4': (nan, nan, nan), '0+5': (nan, nan, nan), '1+0': (nan, nan, nan), '1+1': (nan, nan, nan), '1+2': (nan, nan, nan), '1+3': (nan, nan, nan), '1+4': (nan, nan, nan), '1+5': (nan, nan, nan)}","[[0.58333333 0.28571429 0.625      0.72727273 0.66666667 0.44444444]
- [0.6        0.8        0.55555556 0.25       0.5        0.1       ]]","[[0. 0. 0. 0. 0. 0.]
- [0. 0. 0. 0. 0. 0.]]","[[1.15428606 1.83235913 1.67074684 1.10146045 0.76445103 1.88333604]
- [1.45776522 0.62166017 0.89670265 2.39323306 1.49378028 2.9646705 ]]","[[nan nan nan nan nan nan]
- [nan nan nan nan nan nan]]","[[nan nan nan nan nan nan]
- [nan nan nan nan nan nan]]"
