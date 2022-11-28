@@ -70,3 +70,7 @@ We also track the average belief of all the posts currently in the network.
 Social Network is the whole structure that contains all agents, networks, and posts. It will start with some number of networks with some random number of agents in them. Each social network contains a grid of cells, each cell representing a different network or community. Agents or users move to different grid cells to join different networks within the Social Network.
 
 In our implementation, the model class represents the whole network and the parameters we pass to the network determine how long we run the system and different attributes for agents and sub\_networks.
+
+
+**Files:**
+* model.ipynb: Network model
